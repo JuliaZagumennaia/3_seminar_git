@@ -20,3 +20,6 @@
 
 * И. Бродский "Письма к стене" * 
 <https://www.culture.ru/poems/30597/pisma-k-stene>
+
+## git commit --amend -m ## - *изменение описания последнего коммита*
+
