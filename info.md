@@ -15,3 +15,8 @@
 [Стихи И. Бродского](https://www.culture.ru/literature/poems/author-iosif-brodskii)
 
 * # [Стихи И. Бродского ](https://www.culture.ru/literature/poems/author-iosif-brodskii) #
+
+![Отрывок стихотворения И. Бродского](picture.png)
+
+* И. Бродский "Письма к стене" * 
+<https://www.culture.ru/poems/30597/pisma-k-stene>
